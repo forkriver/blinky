@@ -1,4 +1,4 @@
 blinky
 ======
 
-WordPress as social network
+WordPress as social network.
