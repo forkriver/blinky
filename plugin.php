@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Blinky
  * Description: Let's make your WordPress site the heart of *your* social media network.
- * Author Name: Patrick Johanneson
+ * Author: Patrick Johanneson
  * Author URI: http://patrickjohanneson.com/
  * Thanks: David Pensato (@pensato) for the idea
  */
