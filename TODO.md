@@ -25,4 +25,4 @@
 
 ### Add-on plugins
 
-* Check for existence of Blinky_Core on startup
+* Check for existence of `Blinky_Core` class on startup
