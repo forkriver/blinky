@@ -14,4 +14,5 @@
  * Thanks: David Pensato (@pensato) for the idea
  */
 
-require_once 'class-blinky-core.php';
+require_once 'class-blinky.php';
+require_once 'class-blinky-settings.php';

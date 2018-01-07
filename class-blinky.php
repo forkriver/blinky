@@ -10,8 +10,10 @@
  *
  * @since 1.0.0
  */
-class Blinky_Core {
+class Blinky {
+
+	const PREFIX = '_blinky_';
 
 }
 
-new Blinky_Core;
+new Blinky;
