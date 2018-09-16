@@ -21,7 +21,16 @@
 ### Core plugin
 
 * Provide an API (functions, hooks) for extension plugins
-* "Bundled" plugins: Facebook, Twitter, Instagram 
+* "Bundled" plugins: Facebook, Twitter, Instagram
+* Hooks:
+	* Actions:
+		* New post
+		* Saved post
+		* Deleted post
+		* New image
+		* Deleted image
+	* Filters:
+		* CMB Meta Boxes
 
 ### Add-on plugins
 
