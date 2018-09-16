@@ -17,3 +17,4 @@
 
 require_once 'class-blinky.php';
 require_once 'class-blinky-settings.php';
+require_once 'class-blinky-hooks.php';
