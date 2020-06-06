@@ -26,3 +26,7 @@
 ### Add-on plugins
 
 * Check for existence of `Blinky_Core` class on startup
+
+### Libraries
+
+* This looks like it'll be useful: https://github.com/deliciousbrains/wp-background-processing
